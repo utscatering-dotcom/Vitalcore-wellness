@@ -1,0 +1,1 @@
+https://vitalcore.vercel.app
